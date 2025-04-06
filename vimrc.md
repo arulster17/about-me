@@ -1,3 +1,4 @@
+# .vimrc
 ```
 set linebreak                    " Do not break in the middle of words
 set encoding=utf-8               " Set encoding to UTF-8
