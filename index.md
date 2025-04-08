@@ -34,4 +34,4 @@ My CS todo list:
 - [ ] Create my own programming language with its own compiler
 
 My favorite programming meme:
-[meme](meme1.jpg)
+![meme](https://i.programmerhumor.io/2024/04/programmerhumor-io-programming-memes-67bf6faf1125983.png)
