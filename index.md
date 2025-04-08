@@ -28,7 +28,10 @@ My favorite code comment:
 
 My favorite CS-related website is [Over the Wire](https://overthewire.org/wargames/).
 
-My CS Todo List of Fun Stuff:
+My CS todo list:
 - [x] Make a neural network from scratch
 - [ ] Get a Raspberry Pi and learn more hardware stuff
 - [ ] Create my own programming language with its own compiler
+
+My favorite programming meme:
+![meme]([https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fnext-level-storage-v0-arqzi89s0q9a1.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Db45383a2568a5c4f4c00c853f6cf5b8784311da4](https://i.programmerhumor.io/2024/04/programmerhumor-io-programming-memes-67bf6faf1125983.png))
